@@ -1,2 +1,6 @@
 # Projectile_calculator_project
-This project applies numerical methods coded in MATLAB to calculate needed information related to projectile motion. 
+This project applies differnr numerical methods to calculate data related to projectile motion. 
+
+the project is coded in MATLAB 
+
+This project was done for the course "engineering analysis and computation" with Dr. Mostafa youssef in AUC 
